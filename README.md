@@ -78,9 +78,3 @@ You can execute each script independently depending on your workflow stage:
 - **Dimensionality Standardisation**: Time-axis feature padding for variable-length acoustic samples.
 - **Unsupervised Analysis**: Agglomerative hierarchical clustering via Ward's / complete linkage methods.
 - **Evaluation**: Quantitative classification diagnostics for binary and multi-class speech tasks.
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
